@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="1265px" viewBox="0 0 896 1265" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <defs>
+        <linearGradient x1="34.2639956%" y1="11.4404769%" x2="52.6035452%" y2="80.4722712%" id="linearGradient-1">
+            <stop stop-color="#F2F7F9" offset="0%"></stop>
+            <stop stop-color="#F2F7F9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Round-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hompage-R2@2x" transform="translate(-704.000000, 0.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Group-77" transform="translate(704.000000, -177.000000)">
+                <polygon id="Path" points="0 897.731401 0 897.731401 896 1795.4628 896 1301.25713 493.252525 897.731401 896 494.20567 896 2.16004992e-12"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
